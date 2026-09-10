@@ -42,14 +42,3 @@ npm run build
 npm run preview
 ```
 
-## GitHub upload steps
-
-1. Create a new GitHub repository named `eyes-dashboard-demo`.
-2. Extract this ZIP file.
-3. Upload all extracted files to the repository.
-4. Run locally with `npm install` and `npm run dev`.
-5. To deploy, use GitHub Pages, Netlify, or Vercel.
-
-## Interview positioning
-
-Use this as a visual prototype to explain how a Senior Program Manager can convert Jira delivery data into an executive control tower across RAID, capacity, duplicates, epic progress, sprint burndown and roadmap visibility.
